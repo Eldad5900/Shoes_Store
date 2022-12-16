@@ -1,0 +1,10 @@
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.deps.json
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.dll
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csproj.AssemblyReference.cache
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfoInputs.cache
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfo.cs
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.dll
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.pdb

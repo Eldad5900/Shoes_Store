@@ -1,0 +1,13 @@
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\Models\bin\Debug\netcoreapp3.1\DataStructures.dll
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\Models\bin\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\Models\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\Models\obj\Debug\netcoreapp3.1\Models.csproj.CopyComplete
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ktya 2\projectshoes\Models\obj\Debug\netcoreapp3.1\Models.pdb
